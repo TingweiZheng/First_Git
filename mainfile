@@ -1,2 +1,10 @@
-make by cheng.
-Hello git.
+Github command:
+
+git clone <URL>
+git pull
+/*
+  change file.
+*/
+git add -A 
+git commit -m "/*comment */"
+git push
